@@ -1,12 +1,15 @@
 Semaine 1 :
-Nous commençons nos recherches sur les marchés financiers, plus particulièrement sur le bitcoin
+Nous commençons nos recherches sur les marchés financiers, plus particulièrement sur le bitcoin. C’est un domaine qui nous intéresse particulièrement.
 Semaine 2 :
-Nous nous orientons plus sur un le côté psychologique d’un marché financier, cela nous parait abordable.
+Nous nous orientons plus sur un le côté psychologique d’un marché financier, cela nous parait abordable. 
+Nous pensons que cela peut être intéressant de voir comment un marché financier est dépend de ses investisseurs notamment de leurs psycologie. 
 Semaine 3 :
-La dynamique "Zero-Intelligence Trading in Markets" nous parait plutôt intéressant. En effet elle correspond assez bien à notre sujet, nous avons alors essayé de nous inspirer du programme.
+La dynamique "Zero-Intelligence Trading in Markets" nous parait plutôt intéressant. En effet elle correspond assez bien à notre sujet, 
+nous allons alors essayé de nous inspirer du programme. https://serc.carleton.edu/sp/library/simulations/examples/36300.html
 Semaine 4 :
-Nous avons abandonné le model de "Zero-Intelligence Trading in Markets" car le programme est codé sur Net logo, de plus ce programme est plus basé sur l’interaction de l’utilisateur. Nous avons alors commencé par faire notre propre code.
+Nous avons abandonné le model de "Zero-Intelligence Trading in Markets" car le programme est codé sur Net logo, de plus ce programme est plus basé sur l’interaction de l’utilisateur. 
+Nous avons alors commencé par faire notre propre code.
 Semaine 5 :
 Nous avons continué notre code en intégrant différent type d’investisseur (les investisseurs à long terme, ceux à court terme), notre code et assez simple et nous allons essayer d’intégrer la liquidité du marché ainsi que le prix d’une action.
 Semaine 6 :
-Nous avons essayé d’intégrer la liquidité du marché dans notre code, ce n’est pas fameux. 
+Nous avons essayé d’intégrer la liquidité (prix d’une action/token) du marché dans notre code, ce n’est pas fameux. Cette élément nous permettrais d’approfondir notre code en effet c’est avec ce prix d’action que nos investisseurs seraient prêt à investir ou non. 
